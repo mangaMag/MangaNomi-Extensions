@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "Tachiyomi: FoolSlide",
+    "name": "MangaNomi: FoolSlide",
     "pkg": "eu.kanade.tachiyomi.extension.all.foolslide",
     "apk": "tachiyomi-all.foolslide-v1.2.1.apk",
     "lang": "all",
@@ -9,7 +9,7 @@
     "version": "1.2.1"
   },
   {
-    "name": "Tachiyomi: MangaDex",
+    "name": "MangaNomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
     "apk": "tachiyomi-all.mangadex-v1.2.17.apk",
     "lang": "all",
@@ -18,7 +18,7 @@
   },
  
   {
-    "name": "Tachiyomi: MyReadingManga",
+    "name": "MangaNomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
     "apk": "tachiyomi-all.myreadingmanga-v1.2.1.apk",
     "lang": "all",
